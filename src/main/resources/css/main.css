@@ -8,6 +8,10 @@
     -fx-font: 20px "Arial";
 }
 
+.text-field:hover {
+    -fx-background-color: bisque;
+}
+
 .button {
     -fx-background-color: mediumspringgreen;
     -fx-font: italic bold 16px "Arial";
